@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 // css files here
 import './styles.css';
 import TodoList from './modules/todolist.js';

@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 const listBody = document.getElementById('list-body');
 const checkbox = document.querySelector('input[name=check]');
 const taskDescription = document.querySelector('.taskdescription');
