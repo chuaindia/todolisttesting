@@ -1,3 +1,7 @@
+/* eslint-disable linebreak-style */
+/* eslint-disable no-trailing-spaces */
+/* eslint-disable indent */
+/* eslint-disable linebreak-style */
 export default class ToDoList {
   constructor() {
     this.getTasks();
