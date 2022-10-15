@@ -36,13 +36,13 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/tonnymuchui/To-do-List.git"
+        "url": "git+https://github.com/chuaindia/todolisttesting.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/tonnymuchui/To-do-List/issues"
+        "url": "https://github.com/chuaindia/todolisttesting/issues"
     },
-    "homepage": "https://github.com/tonnymuchui/To-do-List#readme"
+    "homepage": "https://github.com/chuaindia/todolisttesting#readme"
 }
